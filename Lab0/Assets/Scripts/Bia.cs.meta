@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 23762f3af6b26c547807687f0c7ce063
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefab: {instanceID: 0}
+  - gameEnd: {instanceID: 0}
+  - collectSounds: {fileID: 8300000, guid: 5d9a31fa31ba5f348be384d71d1913b7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
